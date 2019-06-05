@@ -1,0 +1,17 @@
+nav {
+  text-align: center;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+img {
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+  object-fit: cover;
+}
